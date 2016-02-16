@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./frbaconideverul00unkngoog_0005.png"; bbox 0 0 1650 2800; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 456 478 1264 647">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 309 462 1477 647">
+     <span class='ocr_line' id='line_1_1' title="bbox 675 478 1049 550; baseline 0.008 -19.18"><span class='ocrx_word' id='word_1_1' title='bbox 675 478 1049 550; x_wconf 62' lang='lat' dir='ltr'><strong>Frfflacflm‘</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 456 574 1264 647; baseline 0.017 -23.566"><span class='ocrx_word' id='word_1_2' title='bbox 456 579 464 630; x_wconf 81' lang='lat' dir='ltr'><strong>j·</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 544 590 656 638; x_wconf 76' lang='lat' dir='ltr'><strong>:DE</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 684 584 1141 634; x_wconf 61' lang='lat' dir='ltr'>VEBNLAMIU</span> <span class='ocrx_word' id='word_1_5' title='bbox 1214 574 1264 647; x_wconf 63' lang='lat'><strong>5⁴³</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 168 617 1456 858">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 168 617 1473 858">
+     <span class='ocr_line' id='line_1_3' title="bbox 176 617 1456 768; baseline 0.004 -41"><span class='ocrx_word' id='word_1_6' title='bbox 176 725 191 753; x_wconf 72' lang='lat'><strong>÷·</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 220 657 243 683; x_wconf 37' lang='grc' dir='ltr'><strong>ζ’</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 284 643 419 768; x_wconf 23' lang='lat'><strong>³⁴:⁵¹</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 452 673 552 742; x_wconf 65' lang='lat' dir='ltr'><strong>Hi</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 557 669 811 742; x_wconf 64' lang='lat' dir='ltr'><strong>fifflss</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 832 674 914 738; x_wconf 82' lang='grc' dir='ltr'>Ν</span> <span class='ocrx_word' id='word_1_12' title='bbox 913 617 1456 742; x_wconf 44' lang='grc' dir='ltr'><strong>ΕΠΗΓΔΙᾸῙΞΗ</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 168 762 1413 858; baseline 0.014 -35"><span class='ocrx_word' id='word_1_13' title='bbox 168 790 177 794; x_wconf 91' lang='lat'>·</span> <span class='ocrx_word' id='word_1_14' title='bbox 254 803 259 814; x_wconf 20' lang='lat'><strong>¹.</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 560 766 1125 858; x_wconf 54' lang='lat' dir='ltr'><strong>&amp;Efffflnssmfis</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 1278 818 1285 826; x_wconf 22' lang='lat' dir='ltr'><strong>v·</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 1330 762 1349 814; x_wconf 50' lang='grc' dir='ltr'><em>ξ</em></span> <span class='ocrx_word' id='word_1_18' title='bbox 1394 769 1444 825; x_wconf 26' lang='grc' dir='ltr'><strong>’.Ῐ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 140 82 1650 2747">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 140 82 1650 2747">
+     <span class='ocr_line' id='line_1_5' title="bbox 140 82 1650 2747; baseline 0 0"><span class='ocrx_word' id='word_1_19' title='bbox 140 82 1650 2747; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
